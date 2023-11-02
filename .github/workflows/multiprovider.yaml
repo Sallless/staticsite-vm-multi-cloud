@@ -97,3 +97,5 @@ jobs:
       run : terraform -chdir=./terraform/azure show
 
 
+
+
